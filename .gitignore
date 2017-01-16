@@ -1,0 +1,6 @@
+data/*
+docs/*
+docs/wn-domains-3.2/*
+
+!data/frequent200_words_of_two_group_authors.txt
+!docs/wn-domains-3.2/wn-domains-3.2-20070223
