@@ -1,0 +1,70 @@
+Addictive:
+9956 synsets
+
+Domains found:
+
+(03593222-n)    Synset('japan.n.04')                metrology
+(03996145-n)    Synset('power_saw.n.01')            industry
+(01785242-v)    Synset('die.v.06')                  factotum
+(08168978-n)    Synset('state.n.04')                geography
+(00028424-r)    Synset('however.r.04')              factotum
+(00170340-n)    Synset('roll.n.14')                 politics
+(02240674-v)    Synset('bid.v.05')                  law money politics tax
+(02927303-a)    Synset('american.a.02')             linguistics
+(10586557-n)    Synset('shark.n.03')                architecture
+(00015097-s)    Synset('easy.s.12')                 factotum
+(01653857-s)    Synset('blocked.s.01')              factotum
+(05984066-n)    Synset('point.n.07')                literature
+(02163307-s)    Synset('large.s.02')                factotum
+(02687916-v)    Synset('cover.v.03')                factotum
+(13947867-n)    Synset('place.n.13')                chemistry
+(01524298-v)    Synset('jam.v.06')                  plants
+(00001740-a)    Synset('able.a.01')                 quality
+(03268553-n)    Synset('elbow.n.03')                mechanics
+(04687333-n)    Synset('appeal.n.02')               chemistry
+(02608823-v)    Synset('begin.v.07')                factotum
+(00651039-s)    Synset('dangerous.s.02')            factotum
+(04960729-n)    Synset('white.n.02')                anatomy
+(01447937-s)    Synset('close.s.12')                factotum
+(09227428-n)    Synset('bottomland.n.01')           biology
+(02011865-v)    Synset('derail.v.02')               factotum
+(13943400-n)    Synset('event.n.02')                chemistry
+(05856217-n)    Synset('zero.n.03')                 religion
+(10639238-n)    Synset('sport.n.03')                music theatre
+(00975036-v)    Synset('call.v.10')                 telecommunication
+(07524529-n)    Synset('concern.n.02')              food
+(02242256-v)    Synset('run.v.25')                  factotum
+(01100145-v)    Synset('win.v.01')                  factotum
+(14048441-n)    Synset('parturiency.n.01')          chemistry
+(00809453-v)    Synset('interview.v.03')            factotum
+(03474467-n)    Synset('hack.n.04')                 play
+(00244043-r)    Synset('north.r.01')                factotum
+(00729109-v)    Synset('trace.v.01')                factotum
+(02436349-v)    Synset('manage.v.02')               factotum
+(13920835-n)    Synset('condition.n.01')            animals
+(13846199-n)    Synset('first.n.01')                chemistry
+(10468962-n)    Synset('president.n.04')            music
+(04329190-n)    Synset('storehouse.n.01')           military
+(00886582-n)    Synset('athletics.n.03')            surgery
+(01647543-v)    Synset('fix.v.06')                  drawing painting
+(08511241-n)    Synset('bottom.n.01')               geography
+(02193194-v)    Synset('spot.v.02')                 geometry
+(00965871-v)    Synset('announce.v.02')             factotum
+(00206998-v)    Synset('help.v.08')                 factotum
+(00572285-n)    Synset('hook.n.06')                 factotum
+(01999218-v)    Synset('precede.v.04')              vehicles
+(03055670-n)    Synset('coach.n.04')                computer_science
+(04987620-n)    Synset('timbre.n.01')               anatomy
+(05677504-n)    Synset('sense.n.01')                mathematics
+(00099951-n)    Synset('magic_trick.n.01')          baseball
+(13325010-n)    Synset('rate.n.02')                 medicine
+(09265620-n)    Synset('descent.n.05')              music
+(02756129-a)    Synset('living.a.01')               animals
+(00002452-n)    Synset('thing.n.12')                factotum
+
+Distinct domains:
+
+linguistics quality biology music military medicine geography politics food
+animals vehicles religion painting factotum baseball plants money tax surgery
+industry law anatomy mathematics mechanics play computer_science architecture
+geometry literature chemistry metrology telecommunication theatre drawing

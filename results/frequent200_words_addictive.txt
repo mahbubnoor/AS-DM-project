@@ -1,0 +1,32 @@
+Addictive:
+955 synsets
+
+Domains found:
+
+(07524529-n)    Synset('concern.n.02')              food
+(13920835-n)    Synset('condition.n.01')            animals
+(00729109-v)    Synset('trace.v.01')                factotum
+(02436349-v)    Synset('manage.v.02')               factotum
+
+Distinct domains:
+
+animals food factotum
+
+Normal:
+916 synsets
+
+Domains found:
+
+(02608823-v)    Synset('begin.v.07')                factotum
+(13920835-n)    Synset('condition.n.01')            animals
+(00572285-n)    Synset('hook.n.06')                 factotum
+(01884383-v)    Synset('buck.v.04')                 factotum
+(02687916-v)    Synset('cover.v.03')                factotum
+(01647543-v)    Synset('fix.v.06')                  drawing painting
+(10468962-n)    Synset('president.n.04')            music
+(02125223-v)    Synset('scent.v.02')                factotum
+(08168978-n)    Synset('state.n.04')                geography
+
+Distinct domains:
+
+geography painting drawing animals music factotum

@@ -35,13 +35,29 @@ for i in open('../docs/wn-domains-3.2/wn-domains-3.2-20070223', 'r'):
     for d in doms:
         domain2synsets[d].append(ssid)
 
-def getDomainsGivenSynsets(synsets, synsetsName):
-    print('\n' + synsetsName + ':\n\t'
-        + str(len(synsets)) + ' synsets\n\tDomains found\n:')
+def getDomainsGivenSynsets(synsets):
+    domains = ()
+    print(str(len(synsets)) + ' synsets\n\nDomains found:\n')
     for ss in synsets:
         ssid = str(ss.offset()).zfill(8) + "-" + ss.pos()
         if synset2domains[ssid]: # not all synsets are in WordNet Domain.
-            print('\t' + str(ss), ssid, synset2domains[ssid])
+            doms = ''
+            for s2d in synset2domains[ssid]:
+                domains = domains + (s2d,)
+                doms = doms + s2d + ' '
+            print('(' + ssid + ')\t' + str(ss) + '\t', doms)
+    return domains
 
-getDomainsGivenSynsets(ss_author0, 'ss_author0')
-getDomainsGivenSynsets(ss_author1, 'ss_author1')
+domains = set(getDomainsGivenSynsets(ss_author0))
+print('\nDistinct domains:\n')
+doms = ''
+for d in domains:
+    doms = doms + d + ' '
+print(doms)
+
+domains = set(getDomainsGivenSynsets(ss_author1))
+print('\nDistinct domains:\n')
+doms = ''
+for d in domains:
+    doms = doms + d + ' '
+print(doms)
