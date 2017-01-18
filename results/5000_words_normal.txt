@@ -1,0 +1,60 @@
+Normal:
+10962 synsets
+
+Domains found:
+
+(01884383-v)    Synset('buck.v.04')                 factotum
+(02221010-v)    Synset('alien.v.01')                commerce economy
+(04687333-n)    Synset('appeal.n.02')               chemistry
+(00286756-n)    Synset('hitch.n.07')                free_time transport
+(08168978-n)    Synset('state.n.04')                geography
+(01424456-v)    Synset('embrace.v.02')              factotum
+(02193194-v)    Synset('spot.v.02')                 geometry
+(00946105-v)    Synset('enumerate.v.01')            factotum
+(01323518-v)    Synset('stone.v.01')                factotum
+(09265620-n)    Synset('descent.n.05')              music
+(00965871-v)    Synset('announce.v.02')             factotum
+(00090386-v)    Synset('shock.v.06')                factotum
+(04004767-n)    Synset('printer.n.02')              fashion
+(13326198-n)    Synset('freight.n.03')              medicine
+(04987620-n)    Synset('timbre.n.01')               anatomy
+(03669886-n)    Synset('limiter.n.01')              buildings religion town_planning
+(01185264-s)    Synset('dense.s.03')                factotum
+(04105438-n)    Synset('roof.n.02')                 mechanics
+(02312014-v)    Synset('divert.v.04')               administration school
+(04255163-n)    Synset('socket.n.02')               factotum
+(01524298-v)    Synset('jam.v.06')                  plants
+(12582231-n)    Synset('palm.n.03')                 administration exchange law
+(00394813-v)    Synset('blend.v.03')                factotum
+(10009276-n)    Synset('detective.n.01')            geography history
+(03936269-n)    Synset('pile.n.06')                 military
+(00600235-v)    Synset('audit.v.02')                factotum
+(02577061-a)    Synset('worldly.a.01')              person
+(00093327-v)    Synset('relapse.v.02')              biology
+(08375526-n)    Synset('lobby.n.03')                geography
+(13846199-n)    Synset('first.n.01')                chemistry
+(12900462-n)    Synset('capsicum.n.01')             metrology money
+(02281611-s)    Synset('apathetic.s.01')            factotum
+(00286605-v)    Synset('stain.v.02')                industry
+(05229805-n)    Synset('germ.n.02')                 anatomy
+(02125223-v)    Synset('scent.v.02')                factotum
+(07812184-n)    Synset('spice.n.02')                factotum
+(01819554-v)    Synset('intimidate.v.02')           factotum
+(10462429-n)    Synset('powerhouse.n.01')           history person
+(05668915-n)    Synset('protocol.n.03')             mathematics
+(01572728-v)    Synset('strain.v.06')               factotum
+(01252425-v)    Synset('smear.v.01')                factotum
+(00479060-v)    Synset('drown.v.04')                factotum
+(06701596-n)    Synset('master_of_education.n.01')  factotum
+(02625521-v)    Synset('bead.v.01')                 factotum
+(00729109-v)    Synset('trace.v.01')                factotum
+(01342949-s)    Synset('apathetic.s.02')            factotum
+(03268553-n)    Synset('elbow.n.03')                mechanics
+(00572285-n)    Synset('hook.n.06')                 factotum
+
+Distinct domains:
+
+industry exchange money administration religion buildings biology factotum
+anatomy geography mathematics free_time commerce plants history military fashion
+medicine geometry economy law music person town_planning metrology mechanics
+chemistry school transport

@@ -1,0 +1,34 @@
+Normal:
+6672 synsets
+
+Domains found:
+
+(02193194-v)    Synset('spot.v.02')                 geometry
+(02125223-v)    Synset('scent.v.02')                factotum
+(00572285-n)    Synset('hook.n.06')                 factotum
+(04687333-n)    Synset('appeal.n.02')               chemistry
+(01185264-s)    Synset('dense.s.03')                factotum
+(01252425-v)    Synset('smear.v.01')                factotum
+(00479060-v)    Synset('drown.v.04')                factotum
+(01323518-v)    Synset('stone.v.01')                factotum
+(01572728-v)    Synset('strain.v.06')               factotum
+(04004767-n)    Synset('printer.n.02')              fashion
+(12900462-n)    Synset('capsicum.n.01')             metrology money
+(01524298-v)    Synset('jam.v.06')                  plants
+(00394813-v)    Synset('blend.v.03')                factotum
+(01884383-v)    Synset('buck.v.04')                 factotum
+(00965871-v)    Synset('announce.v.02')             factotum
+(03669886-n)    Synset('limiter.n.01')              buildings religion town_planning
+(13846199-n)    Synset('first.n.01')                chemistry
+(06701596-n)    Synset('master_of_education.n.01')  factotum
+(12582231-n)    Synset('palm.n.03')                 administration exchange law
+(04987620-n)    Synset('timbre.n.01')               anatomy
+(08168978-n)    Synset('state.n.04')                geography
+(00729109-v)    Synset('trace.v.01')                factotum
+(02577061-a)    Synset('worldly.a.01')              person
+(07812184-n)    Synset('spice.n.02')                factotum
+
+Distinct domains:
+
+town_planning geography buildings chemistry administration person exchange money
+factotum metrology fashion anatomy religion plants law geometry
