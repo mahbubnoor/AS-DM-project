@@ -1,0 +1,16 @@
+10000: Common domains:
+
+mathematics music chemistry money person metrology religion military industry
+anatomy biology politics school factotum home law plants computer_science
+geography mechanics town_planning fashion buildings geometry history baseball
+medicine vehicles
+
+10000: Domains unique to normal:
+
+transport physics administration exchange tourism commerce enterprise free_time
+furniture economy
+
+10000: Domains unique to addictive:
+
+architecture quality surgery literature linguistics astronomy telecommunication
+food animals play anthropology painting drawing theatre gastronomy tax

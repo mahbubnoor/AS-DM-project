@@ -1,0 +1,14 @@
+2500: Common domains:
+
+geography religion factotum plants money law anatomy geometry chemistry
+metrology
+
+2500: Domains unique to normal:
+
+town_planning buildings administration person exchange fashion
+
+2500: Domains unique to addictive:
+
+linguistics quality biology music military medicine politics food animals
+vehicles painting baseball tax surgery industry mathematics mechanics play
+computer_science architecture literature telecommunication theatre drawing

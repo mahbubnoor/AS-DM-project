@@ -1,0 +1,15 @@
+5000: Common domains:
+
+geometry religion geography factotum law mechanics biology anatomy metrology
+plants music mathematics money medicine chemistry military industry
+
+5000: Domains unique to normal:
+
+exchange administration buildings free_time commerce history fashion economy
+person town_planning school transport
+
+5000: Domains unique to addictive:
+
+telecommunication quality tax home astronomy politics drawing animals
+linguistics surgery literature baseball painting food vehicles play architecture
+gastronomy theatre computer_science

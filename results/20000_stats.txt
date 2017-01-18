@@ -1,0 +1,16 @@
+20000: Common domains:
+
+person money music linguistics anthropology tax industry fashion religion
+buildings politics baseball metrology economy vehicles medicine town_planning
+computer_science mechanics mathematics biology history geography commerce
+factotum anatomy optics plants home school geometry military law chemistry
+
+20000: Domains unique to normal:
+
+enterprise transport tourism furniture free_time exchange administration
+pharmacy physics
+
+20000: Domains unique to addictive:
+
+play animals architecture literature quality gastronomy time_period painting
+telecommunication drawing astronomy theatre surgery food

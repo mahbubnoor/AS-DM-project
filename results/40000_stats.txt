@@ -1,0 +1,16 @@
+40000: Common domains:
+
+home history person vehicles economy painting money mechanics factotum metrology
+computer_science chemistry pharmacy plants religion physics administration
+medicine optics geography law animals geometry buildings town_planning transport
+enterprise architecture free_time mathematics literature music school biology
+linguistics time_period politics tourism gastronomy baseball commerce
+anthropology tax mythology military fashion anatomy industry
+
+40000: Domains unique to normal:
+
+exchange electricity artisanship graphic_arts basketball furniture
+
+40000: Domains unique to addictive:
+
+food theatre surgery quality astronomy drawing play telecommunication geology
